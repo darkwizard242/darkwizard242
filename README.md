@@ -9,3 +9,7 @@
  * [Sonar Cloud](https://sonarcloud.io/organizations/tech-overlord-github/projects)
  * [Travis CI](https://travis-ci.com/darkwizard242)
  * [Vagrant Cloud](https://app.vagrantup.com/darkwizard242)
+ 
+ 
+ 
+ [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=darkwizard242&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
