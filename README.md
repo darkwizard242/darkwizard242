@@ -12,4 +12,4 @@
  
  
  
- [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=darkwizard242&show_icons=true)](https://github.com/darkwizard242/darkwizard242)
+ [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=darkwizard242&show_icons=true)](https://github.com/darkwizard242/darkwizard242)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkwizard242)](https://github.com/darkwizard242/darkwizard242)
