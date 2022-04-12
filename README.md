@@ -5,7 +5,7 @@
 ⚡ You can find some of them below:
 
 - [Ansible Galaxy](https://galaxy.ansible.com/darkwizard242)
-- [Dockerhub](https://hub.docker.com/u/darkwizard242)
+- [Dockerhub](https://hub.docker.com/u/darkwizard242) <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/docker.svg" width="20" height="20">
 - [Sonar Cloud](https://sonarcloud.io/organizations/tech-overlord-github/projects)
 - [Travis CI](https://travis-ci.com/darkwizard242)
 - [Vagrant Cloud](https://app.vagrantup.com/darkwizard242)
