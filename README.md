@@ -21,4 +21,4 @@
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkwizard242&theme=dark)](https://github.com/darkwizard242/darkwizard242)
 
-![](https://komarev.com/ghpvc/?username=darkwizard242&style=plastic&color=green&label=profile-views-today)
+![](https://komarev.com/ghpvc/?username=darkwizard242&style=plastic&color=green&label=profile-views)
